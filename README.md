@@ -20,7 +20,7 @@
     choco install selenium
     choco install selenium-all-drivers
     ```
-
+    - validate driver(googleChrome): https://chromedriver.chromium.org/downloads
 - Initial commands:
     - install selenium(prefer to use virtual env):
         ```
